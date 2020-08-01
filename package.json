@@ -1,0 +1,24 @@
+{
+  "name": "shadowstylecss",
+  "version": "1.0.0",
+  "description": "add shadows",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angularsara/shadowcss.git"
+  },
+  "keywords": [
+    "shadows",
+    "style",
+    "css"
+  ],
+  "author": "Saravanan Subbiah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angularsara/shadowcss/issues"
+  },
+  "homepage": "https://github.com/angularsara/shadowcss#readme"
+}
